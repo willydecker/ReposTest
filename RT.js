@@ -1,3 +1,9 @@
+//William Decker
+//jan 26
+//this finds if a value is even and either be true or false
+
+
+
 function isEven(x) {
 		if (x == 0) {
 			return true;
